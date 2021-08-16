@@ -1,0 +1,16 @@
+.todolist-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh; }
+
+.todo {
+  display: flex;
+  padding: 1rem;
+  align-items: center; }
+  .todo p {
+    margin: 0;
+    margin-right: 0.3rem; }
+  .todo .input {
+    display: flex; }
